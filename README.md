@@ -1,8 +1,10 @@
-# Investigate-Realtional-Data-Base
-My first project in Programming for Data Science Nanodegree Program in Udacity platform.
+# Investigate Realtional Data Base
+My 1st project in Programming for Data Science Nanodegree Program in Udacity platform.
 
-## Udacity data analyst Bikeshare data
+## Overview
 Sakila DVD Rental database. The Sakila Database holds information about a company that rents movie DVDs.
+
+
 
 ## Built with
 - PostgreSQL
@@ -19,4 +21,9 @@ Sakila DVD Rental database. The Sakila Database holds information about a compan
 -  [DVD rental database](https://www.postgresqltutorial.com/postgresql-sample-database/).
 
 ## ERD
-![ERD](https://drive.google.com/file/d/1bD4HYRpPUzLJs1nJollIlMVmKoBlu52j/view?usp=sharing)
+![ERD](
+https://video.udacity-data.com/topher/2018/September/5ba95d23_dvd-rental-erd-2/dvd-rental-erd-2.png)
+
+
+
+
